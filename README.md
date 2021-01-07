@@ -5,12 +5,13 @@ Une société de commerce a décidé de créer un site de vente en ligne. Le sit
 ### À l’internaute :
 1. Avoir la possibilité de sauvegarder ses données d’authentification
 2. S’authentifier s’il a créé un compte préalablement
-3. Chercher un produit, o Visualiser la fiche d’un produit sélectionné
-4. Ajouter un produit donné au panier
-5. Valider un panier, o Saisir ses coordonnées
-6. Avoir la possibilité de créer un compte pour sauvegarder ses coordonnées
-7. Choisir le mode de paiement (soit par carte bancaire, soit à la livraison)
-8. Saisir les informations de la carte bancaire
+3. Chercher un produit
+4. Visualiser la fiche d’un produit sélectionné
+5. Ajouter un produit donné au panier
+6. Valider un panier, o Saisir ses coordonnées
+7. Avoir la possibilité de créer un compte pour sauvegarder ses coordonnées
+8. Choisir le mode de paiement (soit par carte bancaire, soit à la livraison)
+9. Saisir les informations de la carte bancaire
 
 ### Aux systèmes bancaires partenaires de :
 1. Recevoir les informations d’une carte bancaire d’un internaute ayant effectué un achat en ligne par carte bancaire afin de les valider.
